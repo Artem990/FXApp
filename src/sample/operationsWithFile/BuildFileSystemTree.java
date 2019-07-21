@@ -37,7 +37,7 @@ public class BuildFileSystemTree {
         return root;
     }
 
-    // можно вместо списка вернуть дерево файловой системы, но со всеми файлами (как вернуть дерево только с файлами нужного формата не смог реализовать)
+    // можно вместо списка вернуть дерево файловой системы, но со всеми файлами (не только .log)
     /*public TreeItem<String> makeTreeWithFoldersAndFiles (String directory){
         File file = new File(directory);
         TreeItem<String> root = new TreeItem<>(directory);

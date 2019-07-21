@@ -11,7 +11,7 @@ public class CreateNewTab {
         this.newFile = newFile;
     }
 
-    // создание ногого таба
+    // создание нового таба
     public Tab getTab() {
         Tab tab = new Tab();
         tab.setText(this.newFile.getName());
