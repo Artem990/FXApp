@@ -6,6 +6,7 @@
 3. В Run добавить new configuration и указать в VM Options (--module-path "PATH_TO_LIBRARY_JAR" --add-modules javafx.controls,javafx.fxml)
 
 -----
+![FXApp](https://user-images.githubusercontent.com/35997083/61596915-1a2c2400-ac12-11e9-88aa-b8914e5b36a6.png)
 
 ### Написать программу для поиска заданного текста в лог файлах.
 
