@@ -48,7 +48,7 @@ public class Controller {
         this.textAreaInsideTab.setWrapText(true);
         this.outOfMessagesField.setEditable(false);
         // hide the root of treeview
-        treeView.setShowRoot(false);
+        //treeView.setShowRoot(false);
 
         this.clickOnButton.setOnMouseClicked((mouseEvent) -> {
             if (!(enterDirectoryField.getText().equals(""))){
