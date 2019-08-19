@@ -1,6 +1,6 @@
 # Программа для поиска текста в log файлах (JavaFX)
 
-Если не запускается JavaFX нужно: 
+Для запуска JavaFX: 
 1. Установить sdk 12 — https://gluonhq.com/products/javafx/
 2. Подключить библиотеку все файлы jar из папки lib
 3. В Run добавить new configuration и указать в VM Options (--module-path "PATH_TO_LIBRARY_JAR" --add-modules javafx.controls,javafx.fxml)
